@@ -1,6 +1,5 @@
 - Hi, I’m @jimitmp
 - I’m interested in Python,SQL,Deep learning,Data analysis,Web Development
-- I’m currently learning DSA, Web development
 - I am actively looking for internships with the main objective of learning new skills
 - How to reach me 
         email > jimitpanditputra19@cse.iiitp.ac.in
